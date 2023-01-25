@@ -2,7 +2,7 @@
 
 A repository with real-case instances for the HGMTP
 
-Comments within an instance's file start with /* and end with */ and have to be ignored by a parser.
+Comments within an instance's file start with /* and end with */ should be ignored.
 
 This repository contains the instances used for the paper "The Hierarchical Generalized Median Tour Problem".
 
